@@ -8,16 +8,16 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/eugeniu-popescu/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="35" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="48" height="36" alt="linkedin logo"  />
   </a>
   <a href="epopescuu@yahoo.it" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="30" height="35" alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="48" height="36" alt="gmail logo"  />
   </a>
   <a href="https://booleancareers.slack.com/team/U05S543SW0K" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="30" height="35" alt="slack logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="48" height="36" alt="slack logo"  />
   </a>
   <a href="https://www.instagram.com/eugen.pps/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="30" height="35" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="48" height="36" alt="instagram logo"  />
   </a>
 </div>
 
