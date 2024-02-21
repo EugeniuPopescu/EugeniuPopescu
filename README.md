@@ -76,25 +76,25 @@
 
 ###
 
-```
-const anmol = {
-    pronouns: "He" | "Him",
-    code: ["Javascript", "Python", "Java", "PHP"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+```javascript
+const 3ug3n = {
+    code: ["Javascript", "Typescript", "Java", "PHP"],
+    askMeAbout: ["web dev", "tech", "app dev", "sports", "motors"],
     technologies: {
         backEnd: {
-            js: ["Node", "Fastify", "Express"],
+            PHP: ["Laravel"]
         },
-        mobileApp: {
-            native: ["Android Development"]
+        frontEnd: {
+                HTML,
+                CSS,
+                js: ["Vue.js", "Vite", "Angular", "Bootstrap", "Tailwind", "Sass"]
         },
-        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
-        databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
+        databases: ["MySql", "PhpMyAdmin"],
     },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "No Focus point at this time",
-    funFact: "There are two ways to write error-free programs; only the third one works"
+    architecture: ["Progressive web applications", "Single page applications"],
+    currentFocus: "Focus to be better day by day",
+    funFact: "There are two ways to write error-free programs; only the third one works",
+    moto: "It's not a bug, it's a feature"
 };
 ```
 
