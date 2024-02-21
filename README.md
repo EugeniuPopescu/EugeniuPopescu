@@ -66,7 +66,7 @@
 ###
 
 ```javascript
-const 3ug3n = {
+let Eugen = {
     code: ["Javascript", "Typescript", "Java", "PHP"],
     askMeAbout: ["web dev", "tech", "app dev", "sports", "motors"],
     technologies: {
@@ -82,7 +82,7 @@ const 3ug3n = {
     },
     architecture: ["Progressive web applications", "Single page applications"],
     currentFocus: "Focus to be better day by day",
-    funFact: "There are two ways to write error-free programs; only the third one works",
+    funFact: "There are two ways to write error-free programs, only the third one works",
     moto: "It's not a bug, it's a feature"
 };
 ```
