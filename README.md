@@ -23,9 +23,43 @@
 
 ###
 
-<h3 align="left">🔗 My Tech Stack</h3>
+<h3 align="left">🔥    About me</h3>
 
 ###
+
+```javascript
+let Eugen = {
+    code: ["Javascript", "Typescript", "Java", "PHP"],
+    askMeAbout: ["web dev", "tech", "software", "sports", "motors"],
+    technologies: {
+        backEnd: {
+            PHP: ["Laravel"]
+        },
+        frontEnd: {
+                HTML,
+                CSS,
+                Bootstrap,
+                Tailwind,
+                Sass,
+                js: ["Vue.js", "Vite", "Angular"]
+        },
+        databases: ["MySql", "PhpMyAdmin"]
+    },
+    architecture: ["Progressive web applications", "Single page applications"],
+    currentFocus: "Focus to be better day by day",
+    funFact: "There are two ways to write error-free programs, only the third one works",
+    moto: "It's not a bug, it's a feature"
+};
+```
+
+
+###
+
+<h3 align="left">🔗 My Tech Stack</h3>
+
+
+###
+
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo"  />
@@ -59,36 +93,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="mysql logo"  />
 </div>
 
-###
-
-<h3 align="left">🔥    About me</h3>
-
-###
-
-```javascript
-let Eugen = {
-    code: ["Javascript", "Typescript", "Java", "PHP"],
-    askMeAbout: ["web dev", "tech", "software", "sports", "motors"],
-    technologies: {
-        backEnd: {
-            PHP: ["Laravel"]
-        },
-        frontEnd: {
-                HTML,
-                CSS,
-                Bootstrap,
-                Tailwind,
-                Sass,
-                js: ["Vue.js", "Vite", "Angular"]
-        },
-        databases: ["MySql", "PhpMyAdmin"]
-    },
-    architecture: ["Progressive web applications", "Single page applications"],
-    currentFocus: "Focus to be better day by day",
-    funFact: "There are two ways to write error-free programs, only the third one works",
-    moto: "It's not a bug, it's a feature"
-};
-```
 
 ###
 
