@@ -2,27 +2,6 @@
 
 ###
 
-<h3 align="center">💻 Contacts</h3>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/eugeniu-popescu/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="48" height="36" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:epopescuu@yahoo.it" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="48" height="36" alt="gmail logo"  />
-  </a>
-  <a href="https://booleancareers.slack.com/team/U05S543SW0K" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="48" height="36" alt="slack logo"  />
-  </a>
-  <a href="https://www.instagram.com/eugen.pps/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="48" height="36" alt="instagram logo"  />
-  </a>
-</div>
-
-###
-
 <h3 align="left">🔥    About me</h3>
 
 ###
@@ -108,6 +87,27 @@ let Eugen = {
 
 ###
 
+
+<h3 align="center">💻 Contacts</h3>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/eugeniu-popescu/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="48" height="36" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:epopescuu@yahoo.it" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="48" height="36" alt="gmail logo"  />
+  </a>
+  <a href="https://booleancareers.slack.com/team/U05S543SW0K" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="48" height="36" alt="slack logo"  />
+  </a>
+  <a href="https://www.instagram.com/eugen.pps/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="48" height="36" alt="instagram logo"  />
+  </a>
+</div>
+
+###
 
 <div align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=EugeniuPopescu.EugeniuPopescu&left_color=darkblue&right_color=lightseagreen"  />
