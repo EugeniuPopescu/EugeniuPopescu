@@ -68,7 +68,7 @@
 ```javascript
 let Eugen = {
     code: ["Javascript", "Typescript", "Java", "PHP"],
-    askMeAbout: ["web dev", "tech", "app dev", "sports", "motors"],
+    askMeAbout: ["web dev", "tech", "software", "sports", "motors"],
     technologies: {
         backEnd: {
             PHP: ["Laravel"]
@@ -76,9 +76,12 @@ let Eugen = {
         frontEnd: {
                 HTML,
                 CSS,
-                js: ["Vue.js", "Vite", "Angular", "Bootstrap", "Tailwind", "Sass"]
+                Bootstrap,
+                Tailwind,
+                Sass,
+                js: ["Vue.js", "Vite", "Angular"]
         },
-        databases: ["MySql", "PhpMyAdmin"],
+        databases: ["MySql", "PhpMyAdmin"]
     },
     architecture: ["Progressive web applications", "Single page applications"],
     currentFocus: "Focus to be better day by day",
