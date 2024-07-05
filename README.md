@@ -12,8 +12,8 @@ let Eugen = {
     askMeAbout: ["web dev", "tech", "software", "sports", "motors"],
     technologies: {
         backEnd: {
-            PHP: ["Laravel"],
-                 [C#]
+            PHP: [Laravel],
+            C#
         },
         frontEnd: {
                 HTML,
