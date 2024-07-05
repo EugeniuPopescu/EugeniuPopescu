@@ -12,7 +12,8 @@ let Eugen = {
     askMeAbout: ["web dev", "tech", "software", "sports", "motors"],
     technologies: {
         backEnd: {
-            PHP: ["Laravel"]
+            PHP: ["Laravel"],
+                 [C#]
         },
         frontEnd: {
                 HTML,
@@ -22,7 +23,7 @@ let Eugen = {
                 Sass,
                 js: ["Vue.js", "Vite", "Angular"]
         },
-        databases: ["MySql", "PhpMyAdmin"]
+        databases: ["Azure Data Studio", "MySql", "PhpMyAdmin"]
     },
     architecture: ["Progressive web applications", "Single page applications"],
     currentFocus: "Focus to be better day by day",
